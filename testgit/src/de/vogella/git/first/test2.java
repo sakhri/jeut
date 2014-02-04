@@ -4,4 +4,5 @@ public class test2 {
 
 	
 	int b=0;
+	int c=21;
 }
